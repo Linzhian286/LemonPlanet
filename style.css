@@ -1,0 +1,99 @@
+body {
+    max-width:960px;color:black;
+    margin: 20 auto;
+    font:300 1em/1.62 Georgia,"Xin Gothic","Hiragino Sans GB","Droid Sans Fallback","Microsoft YaHei",sans-serif;
+}
+/* 
+.btn-info {
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+}
+.btn{
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px; 
+} */
+
+div.顶部导航条 li {
+    list-style: none;
+    display: inline-block
+}
+div.顶部导航条 {
+   
+    overflow: hidden;text-align: center
+}
+ul.左边导航 {
+    float: left;
+}
+ul.左边导航 li {
+   margin: 0 20 0 70px 
+   
+}
+ul.右边导航{
+    float: right;
+}
+ul.右边导航 li {
+    margin: 0 20 0 70px 
+
+}
+
+img.logo {
+    max-height:80px;
+    margin: 0 auto;
+}
+div.图片和介绍 div{
+    display: inline-block
+}
+div.自我介绍 {
+    line-height: 1.8em;
+    margin:0 90px 0px 90px
+}
+div.图片和介绍{
+    margin:10px
+}
+div.底部文章 {
+    margin: 58px;
+}
+div.日期 {
+    color: grey;
+    margin: 0;
+    
+}
+div.摘要 {
+    color: grey;
+    font-size :16px;
+    
+}
+h2.文章名 {
+    margin: 0 0 10px 0;
+}
+
+div.post {
+    margin-bottom: 50px;
+}
+
+div.banner-img {
+    margin-left: 50px;
+}
+
+img.新工作主义 {
+    max-width:690px;
+    margin: 30 auto;
+}
